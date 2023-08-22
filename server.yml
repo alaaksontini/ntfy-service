@@ -1,0 +1,4 @@
+base-url: "https://gili-ntfy.onrender.com "
+listen-http: ":2586"
+cache-file: "/var/cache/ntfy/cache.db"
+attachment-cache-dir: "/var/cache/ntfy/attachments"
